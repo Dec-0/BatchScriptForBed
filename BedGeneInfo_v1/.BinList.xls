@@ -1,0 +1,3 @@
+BedAnno	DEFAULTDIR/Scripts/BedRelated/BedGeneAnno_v1/BedGeneAnno_v1.pl
+Reference	DEFAULTDIR/DB/Reference/hg38/ucsc.hg38.fasta
+BedInsersect	DEFAULTDIR/Scripts/BedRelated/BedIntersect_v2/BedIntersect_v2.pl
